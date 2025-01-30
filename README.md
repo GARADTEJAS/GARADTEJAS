@@ -23,6 +23,6 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 
 ## Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](linkedin.com/in/tejas-garad)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-garad/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tejas.garad2001@gmail.com)
 
